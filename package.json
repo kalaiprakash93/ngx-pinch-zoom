@@ -61,7 +61,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drozhzhin-n-e/ngx-pinch-zoom.git"
+    "url": "git+ https://github.com/kalaiprakash93/ngx-pinch-zoom.git"
   },
   "sideEffects": false,
   "typings": "ngx-pinch-zoom.d.ts",
