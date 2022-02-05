@@ -1,0 +1,69 @@
+{
+  "_from": "ngx-pinch-zoom@2.3.4",
+  "_id": "ngx-pinch-zoom@2.3.4",
+  "_inBundle": false,
+  "_integrity": "sha512-cC6R/WwQsbGRAp9CslDrw6gQobz3cb7+MQILv1++lxE1FmpI7OhT/2uMrPJwvxsLbZyBFJM44W923yJjdzqTmA==",
+  "_location": "/ngx-pinch-zoom",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "ngx-pinch-zoom@2.3.4",
+    "name": "ngx-pinch-zoom",
+    "escapedName": "ngx-pinch-zoom",
+    "rawSpec": "2.3.4",
+    "saveSpec": null,
+    "fetchSpec": "2.3.4"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-pinch-zoom/-/ngx-pinch-zoom-2.3.4.tgz",
+  "_shasum": "cea2fdde37cee4a1f4b41865e2213e148dcd65d9",
+  "_spec": "ngx-pinch-zoom@2.3.4",
+  "_where": "D:\\IDP APP\\SP_MP_LATEST\\study-abroad-mp",
+  "author": {
+    "name": "Nikita Drozhzhin",
+    "email": "drozhzhin.n.e@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/drozhzhin-n-e/ngx-pinch-zoom/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "Pinch zoom component for Angular.",
+  "es2015": "fesm2015/ngx-pinch-zoom.js",
+  "esm2015": "esm2015/ngx-pinch-zoom.js",
+  "esm5": "esm5/ngx-pinch-zoom.js",
+  "fesm2015": "fesm2015/ngx-pinch-zoom.js",
+  "fesm5": "fesm5/ngx-pinch-zoom.js",
+  "homepage": "http://ivylab.space/pinch-zoom",
+  "keywords": [
+    "Angular",
+    "Angular 2",
+    "ngx",
+    "ng2",
+    "Pinch zoom",
+    "Touch image zoom"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-pinch-zoom.umd.js",
+  "metadata": "ngx-pinch-zoom.metadata.json",
+  "module": "fesm5/ngx-pinch-zoom.js",
+  "name": "ngx-pinch-zoom",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drozhzhin-n-e/ngx-pinch-zoom.git"
+  },
+  "sideEffects": false,
+  "typings": "ngx-pinch-zoom.d.ts",
+  "version": "2.3.4"
+}
